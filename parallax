@@ -1,0 +1,6 @@
+
+// css for a simple parallax efect
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover; 
+  
